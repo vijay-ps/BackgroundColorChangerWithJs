@@ -12,7 +12,7 @@ body {
 }
 #btn {
   color: #fff;
-  background: none;
+  background: blue;
   border: 2px solid #fff;
   /* width: 200px */
   font-size: 1.5rem;
